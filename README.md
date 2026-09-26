@@ -1,5 +1,7 @@
 # RENTIT
 
+RENTIT is a peer-to-peer rental marketplace. People list household items they rarely use (drills, tents, projectors, party gear), and others nearby send a request to borrow them for a set period.
+
 ## Architecture
 
 ```text
